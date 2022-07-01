@@ -1,5 +1,7 @@
 package com.example.tugassensor.ui.home;
-
+//NIM : 10119078
+//Nama: Adam Firdaus Darmawan
+//Kelas : IF2
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;

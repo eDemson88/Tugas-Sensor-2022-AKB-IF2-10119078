@@ -1,5 +1,7 @@
 package com.example.tugassensor.ui.map;
-
+//NIM : 10119078
+//Nama: Adam Firdaus Darmawan
+//Kelas : IF2
 
 import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;

@@ -1,4 +1,7 @@
 package com.example.tugassensor.ui.slideshow;
+//NIM : 10119078
+//Nama: Adam Firdaus Darmawan
+//Kelas : IF2
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;

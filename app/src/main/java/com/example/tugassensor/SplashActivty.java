@@ -1,4 +1,7 @@
 package com.example.tugassensor;
+//NIM : 10119078
+//Nama: Adam Firdaus Darmawan
+//Kelas : IF2
 
 import android.app.Activity;
 import android.content.Intent;

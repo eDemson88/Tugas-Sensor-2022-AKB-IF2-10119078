@@ -1,4 +1,7 @@
 package com.example.tugassensor.ui.restoran;
+//NIM : 10119078
+//Nama: Adam Firdaus Darmawan
+//Kelas : IF2
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
