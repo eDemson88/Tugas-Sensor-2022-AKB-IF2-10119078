@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Tugas Sensor 10119078</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Location App</string>
+    <string name="nav_header_subtitle">Developed by Adam Firdaus Darmawan</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Profile</string>
+    <string name="menu_slideshow">Informasi Aplikasi</string>
+    <string name="Maps">Maps</string>
+
+    <string name="profile_nama">Adam Firdaus Darmawan</string>
+    <string name="nim">10119078</string>
+    <string name="kelas">AKB IF2</string>
+    <string name="email">adam.10119078@mahasiswa.unikom.ac.id</string>
+
+    <string name="judul1">Location</string>
+    <string name="judul2">Maksud dan Tujuan Aplikasi</string>
+    <string name="judul3">Informasi Aplikasi</string>
+
+    <string name="desk_1">Aplikasi maps dengan beberapa rekomendasi restoran</string>
+    <string name="desk_2">Aplikasi ini berjutuan untuk memenuhi tugas UTS AKB IF2</string>
+
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="restoran">Restoran</string>
+
+</resources>
